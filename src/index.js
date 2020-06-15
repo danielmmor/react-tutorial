@@ -2,7 +2,7 @@ class Square extends React.Component {
     render() {
       return (
         <button className="square">
-          {/* TODO */}
+          {/* TODO2 */}
         </button>
       );
     }
